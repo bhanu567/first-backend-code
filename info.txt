@@ -1,0 +1,14 @@
+hot reloading : like in React, when you saves the code, it automatic send to the browser and updates, but in
+node every time in code updatation, you have to close the server and restart it. There is no concept of hot 
+reloading in node. so, for this nodemon comes into the picture
+
+
+
+There are 65,535 possible port numbers, although not all are in common use. Some of the most commonly used 
+ports, along with their associated networking protocol, are: Ports 20 and 21: File Transfer Protocol (FTP).
+
+
+
+you are opening your app in 3000 port, but may be your srvice provider computer's port has not 3000 port 
+free, but how can you get to know this. this comes under production. so, that your port ca be automatically 
+get configured

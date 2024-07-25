@@ -1,0 +1,19 @@
+{
+  "name": "afirst",
+  "version": "1.0.0",
+  "description": "\"This is the first project of Backend - A Basic App\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Bhanu Prakash Jha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
